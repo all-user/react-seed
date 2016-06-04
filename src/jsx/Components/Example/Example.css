@@ -1,0 +1,18 @@
+.root,
+.root * {
+  box-sizing: border-box;
+}
+
+.root {
+  display: block;
+  background: #ccc;
+  padding: 5px 20px;
+  margin: 0;
+}
+
+.title {
+  color: #333;
+  font-size: 28px;
+  font-family: sans-serif;
+  line-height: 32px;
+}
