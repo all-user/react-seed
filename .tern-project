@@ -1,0 +1,14 @@
+{
+  "ecmaVersion": 6,
+  "libs": [
+    "browser"
+  ],
+  "plugins": {
+    "complete_strings": {},
+    "node": {},
+    "modules": {
+      "dontLoad": "babel-polyfill"
+    },
+    "es_modules": {}
+  }
+}
